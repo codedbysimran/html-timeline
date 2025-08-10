@@ -76,11 +76,28 @@ footer {
 }
 
 
-@media (max-width: 700px) {
-    article {
-        font-size: 14px;
+media (min-width: 768px) {
+    header h1{ font-size:1.35rem; }
+    #timeline{
+      grid-template-columns: repeat(2, 1fr);
+      gap:18px;
+      padding:24px 12px;
     }
-    header h1 {
-        font-size: 25px;
+    article{ padding:16px; }
+  }
+  
+  
+  @media (min-width: 1024px) {
+    body{ font-size:16px; }
+    header{ padding:26px 20px; }
+    header h1{ font-size:1.5rem; }
+    #timeline{
+      grid-template-columns: repeat(3, 1fr);
+      gap:20px;
+      padding:30px;
     }
-}
+    article{ padding:18px; }
+  }
+  
+ 
+  
