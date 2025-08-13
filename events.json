@@ -1,0 +1,86 @@
+[
+    {
+      "month": "January",
+      "title": "Makar Sankranti",
+      "description": "Celebrated across different states, marking the conclusion of long winter nights.",
+      "imageURL": "https://via.placeholder.com/300x200?text=Makar+Sankranti",
+      "category": "Harvest"
+    },
+    {
+      "month": "February",
+      "title": "Vasant Panchami",
+      "description": "Dedicated to goddess Saraswati, the goddess of wisdom, education, art and culture.",
+      "imageURL": "https://via.placeholder.com/300x200?text=Vasant+Panchami",
+      "category": "Cultural"
+    },
+    {
+      "month": "March",
+      "title": "Holi",
+      "description": "The festival of colors.",
+      "imageURL": "https://via.placeholder.com/300x200?text=Holi",
+      "category": "Cultural"
+    },
+    {
+      "month": "April",
+      "title": "Ugadi",
+      "description": "The Telugu and Kannada New Year.",
+      "imageURL": "https://via.placeholder.com/300x200?text=Ugadi",
+      "category": "New Year"
+    },
+    {
+      "month": "May",
+      "title": "Eid al-Fitr",
+      "description": "Celebrates the end of Ramadan, the Islamic holy month of fasting.",
+      "imageURL": "https://via.placeholder.com/300x200?text=Eid+al-Fitr",
+      "category": "Religious"
+    },
+    {
+      "month": "June",
+      "title": "Eid al-Adha",
+      "description": "Also known as Bakrid, a celebration of sacrifice and faith.",
+      "imageURL": "https://via.placeholder.com/300x200?text=Eid+al-Adha",
+      "category": "Religious"
+    },
+    {
+      "month": "July",
+      "title": "Guru Purnima",
+      "description": "Celebrated to honour one's chosen spiritual teachers or leaders.",
+      "imageURL": "https://via.placeholder.com/300x200?text=Guru+Purnima",
+      "category": "Spiritual"
+    },
+    {
+      "month": "August",
+      "title": "Raksha Bandhan",
+      "description": "Celebrates the bond between brothers and sisters.",
+      "imageURL": "https://via.placeholder.com/300x200?text=Raksha+Bandhan",
+      "category": "Family"
+    }
+    {
+        "month": "September",
+        "title": "Ganesh Chaturthi",
+        "description": "Celebrates the birth of Lord Ganesha, especially significant in Maharashtra.",
+        "imageURL": "https://via.placeholder.com/300x200?text=Ganesh+Chaturthi",
+        "category": "Religious"
+      },
+      {
+        "month": "October",
+        "title": "Dussehra",
+        "description": "Celebrates the victory of good over evil, marking the culmination of Navratri.",
+        "imageURL": "https://via.placeholder.com/300x200?text=Dussehra",
+        "category": "Religious"
+      },
+      {
+        "month": "November",
+        "title": "Diwali",
+        "description": "The festival of lights, symbolizing the victory of light over darkness and good over evil.",
+        "imageURL": "https://via.placeholder.com/300x200?text=Diwali",
+        "category": "Cultural"
+      },
+      {
+        "month": "December",
+        "title": "Christmas",
+        "description": "Celebrates the birth of Jesus Christ, widely celebrated across India.",
+        "imageURL": "https://via.placeholder.com/300x200?text=Christmas",
+        "category": "Religious"
+      }
+    ]

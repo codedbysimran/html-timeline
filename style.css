@@ -75,28 +75,28 @@ footer {
     bottom: 0;
 }
 
-
+/*mobile*/
 media (min-width: 768px) {
-    header h1{ font-size:1.35rem; }
+    header h1{ font-size:1.32rem; }
     #timeline{
       grid-template-columns: repeat(2, 1fr);
       gap:18px;
-      padding:24px 12px;
+      padding:22px 12px;
     }
-    article{ padding:16px; }
+    article{ padding:13px; }
   }
   
-  
+  /*desktop*/
   @media (min-width: 1024px) {
     body{ font-size:16px; }
-    header{ padding:26px 20px; }
-    header h1{ font-size:1.5rem; }
+    header{ padding:24px 20px; }
+    header h1{ font-size:1.3rem; }
     #timeline{
       grid-template-columns: repeat(3, 1fr);
       gap:20px;
       padding:30px;
     }
-    article{ padding:18px; }
+    article{ padding:12px; }
   }
   
  
